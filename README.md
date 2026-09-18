@@ -1,3 +1,3 @@
 # ServerWaifu-VS Modpack
 
-Files for our Vintage Story server
+ServerWaifu's Secret Sauce
