@@ -1,0 +1,19 @@
+{
+  "SearchRadius": 5000,
+  "DistrictSearchRadius": 30000,
+  "DistrictKnowledgeChance": 1.0,
+  "MaxResourcesPerDispatch": 5,
+  "OfferRumorTier": true,
+  "OfferSurveyTier": true,
+  "Prices": {
+    "MineralsRumor": 1,
+    "MineralsSurvey": 4,
+    "OresRumor": 1,
+    "OresSurvey": 6,
+    "GemsRumor": 2,
+    "GemsSurvey": 10,
+    "DistrictsRumor": 2,
+    "DistrictsSurvey": 5,
+    "Primer": 1
+  }
+}
