@@ -7,6 +7,6 @@
 	"DisableVanillaLogTannin": true,
 	"AllowVanillaSaw": true,
 	"RemovePitSaw": false,
-	"CraftableSawhorse": false,
+	"CraftableSawhorse": true,
 	"LogRecoverThreshold": 0.25
 }
