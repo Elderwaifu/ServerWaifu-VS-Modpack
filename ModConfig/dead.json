@@ -1,0 +1,21 @@
+{
+  "LootHoldSeconds": 3.0,
+  "LootAllHoldSeconds": 6.0,
+  "BodyExpireDays": 40.0,
+  "ClothingDecayFactor": 0.75,
+  "CorpseLockHours": 0.0,
+  "DragHoldSeconds": 1.5,
+  "DragRange": 5.0,
+  "DragWalkSpeedMultiplier": -0.7,
+  "SkinHoldSeconds": 4.0,
+  "QuarterHoldSeconds": 6.0,
+  "HarvestHoldSeconds": 8.0,
+  "HangHoldSeconds": 3.0,
+  "DisableHarvesting": true,
+  "HarvestingLootMultiplier": 1.0,
+  "KeepInventoryOnDeath": "None",
+  "StowHoldSeconds": 3.0,
+  "CorpseWoundCount": 5,
+  "CorpseWoundLogEnabled": true,
+  "CorpseWoundShowWeapon": true
+}
