@@ -1,0 +1,1579 @@
+{
+    "Mods": [
+        {
+            "Name": "A Culinary Artillery Experimental",
+            "Version": "2.0.0-dev.24",
+            "ModId": "aculinaryartillery",
+            "Side": "both",
+            "Description": "An armory of tools for food-based mods and modpack makers",
+            "url_mod": "https://mods.vintagestory.at/show/mod/4151",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ACulinaryArtillery+2_c947e98952cea07fd6fb5da61d7dfc79.zip?dl=ACulinaryArtillery 2.0.0-dev.24.zip"
+        },
+        {
+            "Name": "AdvancedGeology",
+            "Version": "1.1.1",
+            "ModId": "advancedgeology",
+            "Side": "both",
+            "Description": "Adds new ores and adjusts vanilla oregen to be more realistic",
+            "url_mod": "https://mods.vintagestory.at/show/mod/41680",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/advancedgeology_1.1._a4eb6f3dc41ba15e7266eba8144eed62.zip?dl=advancedgeology_1.1.1.zip"
+        },
+        {
+            "Name": "Alchemy",
+            "Version": "2.2.0-rc.11",
+            "ModId": "alchemy",
+            "Side": "both",
+            "Description": "An alchemy mod that adds a couple of player enhancing potions.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/487",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/alchemy_2.2.0-rc.11_c6e79a2bd2d66f888431d00f51120cc5.zip?dl=alchemy_2.2.0-rc.11.zip"
+        },
+        {
+            "Name": "Antler Tools",
+            "Version": "1.0.0",
+            "ModId": "antlertools",
+            "Side": "both",
+            "Description": "Adds early-game tools crafted from antlers.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/54743",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/antlertools-v1.0.0-V_8612717abf02d717982c0d7443eaba37.zip?dl=antlertools-v1.0.0-VS1.22.x.zip"
+        },
+        {
+            "Name": "Anvil Performance Optimization",
+            "Version": "1.0.0",
+            "ModId": "anvilperformanceoptimization",
+            "Side": "both",
+            "Description": "Patch mod that prewarms the vanilla anvil interaction-help cache so the first look at anvils does not hitch the game.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/50265",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/anvilperformanceopti_07084dfcb4a2aeadde37bd3b5b50afd9.zip?dl=anvilperformanceoptimization_1.0.0.zip"
+        },
+        {
+            "Name": "Arrow Barrels",
+            "Version": "1.5.1",
+            "ModId": "arrowbarrels",
+            "Side": "both",
+            "Description": "Barrels for storing arrows",
+            "url_mod": "https://mods.vintagestory.at/show/mod/28197",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/arrowbarrels-V1.22.0_d54892fdb79c1d181f032a81892a2532.zip?dl=arrowbarrels-V1.22.0-1.5.1.zip"
+        },
+        {
+            "Name": "Wanderer's Sketchbook",
+            "Version": "2.0.5",
+            "ModId": "arthursjournal",
+            "Side": "both",
+            "Description": "Adds a sketchbook in which you can draw and write!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/42149",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/wanderers-sketchbook_614b272bd544766a8350dd4b7cd9faf2.zip?dl=wanderers-sketchbook-net10-2.0.5.zip"
+        },
+        {
+            "Name": "Valley of Ashes",
+            "Version": "1.5.0",
+            "ModId": "ashes",
+            "Side": "both",
+            "Description": "Craft plant and wood ash, ash fertilizer and potash.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/13289",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/valley_of_ashes-1.5._143de372d96af7808776699b205c9689.zip?dl=valley_of_ashes-1.5.0.zip"
+        },
+        {
+            "Name": "Async Handbook Filter",
+            "Version": "1.0.0",
+            "ModId": "asynchandbookfilter",
+            "Side": "client",
+            "Description": "Fixes the survival handbook freezing/crashing when browsing pages with lots of meal recipes (e.g. the Blocks and Items / search-all view) on modpacks with many cooking-related mods. Moves the meal-preview regeneration and item filtering off the main thread, and guards against a couple of known engine/mod-compat crashes so a single broken item preview can't take down the whole client.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/66842",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/AsyncHandbookFilter_c61407159361a2a5150f32f1043673b5.zip?dl=AsyncHandbookFilter.zip"
+        },
+        {
+            "Name": "Attribute Rendering Library",
+            "Version": "3.2.0",
+            "ModId": "attributerenderinglibrary",
+            "Side": "both",
+            "Description": "Attribute-based variant system for rendering things and much more.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/26831",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/AttributeRenderingLi_117a8fe384afa5aaba82adbad4b40bd4.zip?dl=AttributeRenderingLibrary-v3.2.0.zip"
+        },
+        {
+            "Name": "Better Crates",
+            "Version": "1.10.0",
+            "ModId": "bettercrates",
+            "Side": "both",
+            "Description": "Adds a new type of storage to the game.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/146",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/BetterCrates_v1.10.0_2eb1fb408a45cfc15d59e209135d9f5b.zip?dl=BetterCrates_v1.10.0.zip"
+        },
+        {
+            "Name": "BetterEr Prospecting",
+            "Version": "3.4.9",
+            "ModId": "bettererprospecting",
+            "Side": "both",
+            "Description": "A compilation of configurable ProPick features.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/29479",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/bettererprospecting__b44dd8b827605bef9846e7bee5b4669f.zip?dl=bettererprospecting_3.4.9.zip"
+        },
+        {
+            "Name": "Better forest",
+            "Version": "0.1.2",
+            "ModId": "betterforest",
+            "Side": "server",
+            "Description": "Improved forest and tree generation. No new blocks. No impact on performance. Only server side",
+            "url_mod": "https://mods.vintagestory.at/show/mod/19421",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/BetterForest_0.1.2_b2c2dce76416ead1e077c4ea2bc40090.zip?dl=BetterForest_0.1.2.zip"
+        },
+        {
+            "Name": "Better Fruitpress and Still",
+            "Version": "1.2.1",
+            "ModId": "betterfruitpress",
+            "Side": "both",
+            "Description": "Fruit press: drain juice into a barrel below, 2x screw/squeeze, auto-release, shift-click pickup of empty presses. Still: correct distillation yield for every recipe (mead matches fruit wine at 0.1 / 0.2 / 0.4), an unsealed barrel under the condenser collects distillate, and peat (including dried, mixed, and rot-soaked) can fuel the boiler.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/62713",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/BetterFruitpressAndS_55f08510e244c983dd7ff2aa02efdb8a.zip?dl=BetterFruitpressAndStill_1.2.1.zip"
+        },
+        {
+            "Name": "Better Handbook",
+            "Version": "1.0.9",
+            "ModId": "betterhandbook",
+            "Side": "client",
+            "Description": "Improves the survival handbook with fast cached opening/scrolling, adds item usage lookup, and adds handbook auto fill helpers.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/50652",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/BetterHandbook-1.0.9_df090b9040bd8cf3d1944b58c72d55f0.zip?dl=BetterHandbook-1.0.9.zip"
+        },
+        {
+            "Name": "Better Insulation",
+            "Version": "0.3.0",
+            "ModId": "betterinsulation",
+            "Side": "both",
+            "Description": "Adds 50% heat and 75% sound coverage rules to chiseled faces, plus rain-on-glass ambience for chiseled windows.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/62460",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/betterinsulation_0.3_d993b94e0ebbaf8d5e288982224cbafc.zip?dl=betterinsulation_0.3.0.zip"
+        },
+        {
+            "Name": "BetterJungles",
+            "Version": "0.2.4",
+            "ModId": "betterjungles",
+            "Side": "both",
+            "Description": "Better Jungle Trees, more intense weather, and mob and crop spawn changes",
+            "url_mod": "https://mods.vintagestory.at/show/mod/44064",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/BetterJungles_0.2.4_7bb54ea044444d38a300a0d700c812c6.zip?dl=BetterJungles_0.2.4.zip"
+        },
+        {
+            "Name": "Better Loot Plus",
+            "Version": "1.0.0",
+            "ModId": "betterlootplus",
+            "Side": "both",
+            "Description": "Configurable loot tables for drifters, shivers and bowtorns, with up to 12 drops per creature variant.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/63311",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/betterlootplus-1.0.0_7e46b869e7f90934c7af7b22c80f7726.zip?dl=betterlootplus-1.0.0.zip"
+        },
+        {
+            "Name": "Better Nails",
+            "Version": "3.0.3",
+            "ModId": "betternails",
+            "Side": "both",
+            "Description": "Configurable smithing output amounts for metal nails and strips.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/34671",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/betternails_3.0.3_e4fd5806e7d7c4b6499d8b454c99fa49.zip?dl=betternails_3.0.3.zip"
+        },
+        {
+            "Name": "BetterRuins",
+            "Version": "0.6.4",
+            "ModId": "betterruins",
+            "Side": "both",
+            "Description": "Adds a lot of structures to the worldgen over and underground.\nBuilders: Bellcross, Dampus, hřbitovník , Ifoz, Marlim, Ogdred, OnBean, Tiggetagg, Sirayne,\nPar, Quentin, StAdrian, SamGray, Tiggetagg, Vilderos, Virrnogamr, Freian, FemurSnapper,\nyapludepatte, Grendelbiter, AceGamePython, RowdyArt, Nybygget, ShikiTochi, Grue\nWriters: Blinky Dorf, Ifoz, dazedandconfused, GentleBoyHell, Joe Silent, moronwmachinegun,\nFullPlateArmor, Quilladile\nRecipes: Azriel, Pal_5000",
+            "url_mod": "https://mods.vintagestory.at/show/mod/3829",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/BetterRuinsv0.6.4_bb48a341ebae096d314f0e77088ccccc.zip?dl=BetterRuinsv0.6.4.zip"
+        },
+        {
+            "Name": "BetterTraders",
+            "Version": "0.2.1",
+            "ModId": "bettertraders",
+            "Side": "server",
+            "Description": "Adds new trader structures additionally to vanilla traders.\nBuilders: StAdrian, FemurSnapper, Sirayne, NiclAss",
+            "url_mod": "https://mods.vintagestory.at/show/mod/6160",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/BetterTradersv0.2.1_65c874cc01df12280bcbd4bc6e3b1553.zip?dl=BetterTradersv0.2.1.zip"
+        },
+        {
+            "Name": "Bola",
+            "Version": "1.4.2",
+            "ModId": "bola",
+            "Side": "both",
+            "Description": "Adds Bola - throwing weapon used to immobilize creatures",
+            "url_mod": "https://mods.vintagestory.at/show/mod/21946",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/bola_1.4.2_9e62d61b39d62a8b860277ff36f42cf5.zip?dl=bola_1.4.2.zip"
+        },
+        {
+            "Name": "Brass Patch",
+            "Version": "1.0.0",
+            "ModId": "brasspatch",
+            "Side": "both",
+            "Description": "Adds brass nails as a valid material to many recipes!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/62762",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/brasspatch_96f6edea5c582233bf527e9890c258f0.zip?dl=brasspatch.zip"
+        },
+        {
+            "Name": "Brickyard",
+            "Version": "1.0.0",
+            "ModId": "brickyard",
+            "Side": "both",
+            "Description": "Adds in-world brickmaking in an immersive and involved manner.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/62678",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/brickyard_98460ac41477ff7dc370279385294159.zip?dl=brickyard.zip"
+        },
+        {
+            "Name": "Butchering",
+            "Version": "1.14.3",
+            "ModId": "butchering",
+            "Side": "both",
+            "Description": "Carry animals back to your place for proper butchering.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/7966",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/butchering_1.14.3_c4cd6ad9c6aadc28cf09a25574cd2c88.zip?dl=butchering_1.14.3.zip"
+        },
+        {
+            "Name": "Cuniculture - Rabbit Farming",
+            "Version": "1.25.2",
+            "ModId": "caffcuniculture",
+            "Side": "both",
+            "Description": "Updated mod that adds quality of life to hare farming.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/22231",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/Cuniculture-1.22.3_1_287204ee2a502a57c3c93db5478db039.zip?dl=Cuniculture-1.22.3_1.25.2.zip"
+        },
+        {
+            "Name": "C&N Jewelry",
+            "Version": "0.7.9",
+            "ModId": "canjewelry",
+            "Side": "both",
+            "Description": "Gems and jewelry with buffs.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/5539",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/canjewelry_0.7.9_e4dc8931e2e02d24ddda15bef03e75bf.zip?dl=canjewelry_0.7.9.zip"
+        },
+        {
+            "Name": "C&N Jewelry Adornments",
+            "Version": "1.0.1",
+            "ModId": "canjewelryadornments",
+            "Side": "both",
+            "Description": "Wearable jewelry - rings, earrings, tiaras, necklaces, monocles and more - plus display stands, all socketable with gems from C&N Jewelry.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65453",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/canjewelryadornments_f63419c635b207e3369d2ddf2a1ca213.zip?dl=canjewelryadornments_1.0.1.zip"
+        },
+        {
+            "Name": "CAN Jewelry — XSkills Integration",
+            "Version": "0.1.7",
+            "ModId": "canjewelryxskill",
+            "Side": "both",
+            "Description": "Adds a Lapidary XSkills skill that buffs CAN Jewelry mechanics.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/49691",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/canjewelryxskill_0.1_ee2ee32a738c6cb2b6fda5ecb041af2e.zip?dl=canjewelryxskill_0.1.8.zip"
+        },
+        {
+            "Name": "Carry On",
+            "Version": "2.0.0-pre.8",
+            "ModId": "carryon",
+            "Side": "both",
+            "Description": "Adds the capability to carry various things",
+            "url_mod": "https://mods.vintagestory.at/show/mod/4405",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/CarryOn-1.22.0_v2.0._d743db358a317c3ed33808df9cb5633b.zip?dl=CarryOn-1.22.0_v2.0.0-pre.8.zip"
+        },
+        {
+            "Name": "CarryOnLib",
+            "Version": "1.0.0-pre.8",
+            "ModId": "carryonlib",
+            "Side": "both",
+            "Description": "Library for the CarryOn mod",
+            "url_mod": "https://mods.vintagestory.at/show/mod/27960",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/CarryOnLib-1.22.0_v1_f96c91b3a0b8c7aeeaa0ef3464ec2940.zip?dl=CarryOnLib-1.22.0_v1.0.0-pre.8.zip"
+        },
+        {
+            "Name": "Cartwrights Caravan and CarryOn Patch",
+            "Version": "1.0.1",
+            "ModId": "cartcarryonpatch",
+            "Side": "both",
+            "Description": "Makes carts from Cartwrights able to transport barrels and crates using Carry On.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/57214",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/cartcarryonpatch_1.0_110f0dda947827aba942e24ca7d9af7c.zip?dl=cartcarryonpatch_1.0.1.zip"
+        },
+        {
+            "Name": "Cartwrights Caravan",
+            "Version": "1.9.1",
+            "ModId": "cartwrightscaravan",
+            "Side": "both",
+            "Description": "Adds seraph-pulled/pushed carts, sleds, and market stalls with storage and decoration options.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/20899",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/CartwrightsCaravan_1_005bbc915553f10f322f713a7b2748da.zip?dl=CartwrightsCaravan_1.9.1.zip"
+        },
+        {
+            "Name": "CaveinFix",
+            "Version": "1.0.5",
+            "ModId": "caveinfix",
+            "Side": "both",
+            "Description": "Various fixes for cave-in mechanics",
+            "url_mod": "https://mods.vintagestory.at/show/mod/37078",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/caveinfix_1.0.5_377897a4b79dbf26ccf67595944c8198.zip?dl=caveinfix_1.0.5.zip"
+        },
+        {
+            "Name": "Ceramic Barrel & Bucket",
+            "Version": "1.0.1",
+            "ModId": "ceramicbucketbarrel",
+            "Side": "both",
+            "Description": "A barrel and bucket made from clay.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/53090",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ceramicbucketbarrel-_e20beb8e2e5c658e0248d1c9c543545f.zip?dl=ceramicbucketbarrel-v1.0.1-VS1.22.x.zip"
+        },
+        {
+            "Name": "Charcoal Kiln",
+            "Version": "1.2.0",
+            "ModId": "charcoalkiln",
+            "Side": "both",
+            "Description": "Adds a kiln that makes charcoal, and only charcoal.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/62902",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/charcoalkiln_1.2.0_e1c3008cc9cdba9bd8442b5851f879d6.zip?dl=charcoalkiln_1.2.0.zip"
+        },
+        {
+            "Name": "Chiseled Ground Placement",
+            "Version": "0.2.2",
+            "ModId": "chiseledgroundplacement",
+            "Side": "both",
+            "Description": "Places floor objects and hanging lights against surfaces carved into chiseled blocks.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/63913",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/chiseledgroundplacem_c046c49b14d9638d929ce73c6b09cc90.zip?dl=chiseledgroundplacement_0.2.2.zip"
+        },
+        {
+            "Name": "Chiseled Wall Mounting",
+            "Version": "0.3.2",
+            "ModId": "chiseledwallmounting",
+            "Side": "both",
+            "Description": "Mounts wall fixtures and wall-leaning ground tools flush against recessed chiseled surfaces.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/62932",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/chiseledwallmounting_2e06bbfe4af027bcc79759c9d9b17861.zip?dl=chiseledwallmounting_0.3.2.zip"
+        },
+        {
+            "Name": "Chisel it Everywhere",
+            "Version": "0.7.0",
+            "ModId": "chiseleverywhere",
+            "Side": "both",
+            "Description": "Chisel decorative shapes onto ANY block — even ones the game normally forbids, like mechanical power shafts — without breaking what the block does.\n\nThe carved decoration lives as an overlay stored alongside the block (not replacing it), so a water-wheel shaft keeps spinning and transmitting power while a carved wooden support hugs it.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65817",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/chiseleverywhere_0.7_12a5a2b2b32be7c4bedc7db03ffa518b.zip?dl=chiseleverywhere_0.7.0.zip"
+        },
+        {
+            "Name": "chiseltools",
+            "Version": "1.17.7",
+            "ModId": "chiseltools",
+            "Side": "both",
+            "Description": "Quentin's Chiseling Tools'",
+            "url_mod": "https://mods.vintagestory.at/show/mod/2751",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ChiselTools1.17.7_e70f7cf6e53e8181840acf6013d5ad67.zip?dl=ChiselTools1.17.7.zip"
+        },
+        {
+            "Name": "Chonky Kitchenware",
+            "Version": "1.0.1",
+            "ModId": "chonkykitchenware",
+            "Side": "both",
+            "Description": "Adds Chonky jugs that can hold up to 6L, And more to come!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/56054",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/chonkykitchenware_1._445e44681f836d0dd3f0fe06ada62418.zip?dl=chonkykitchenware_1.0.1.zip"
+        },
+        {
+            "Name": "Chonky Vessels",
+            "Version": "1.5.9",
+            "ModId": "chonkyvessels",
+            "Side": "both",
+            "Description": "Adds chonkier vessels with better storage and spoilage properties.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/44504",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/chonkyvessels_1.5.9_a55688328314cf5a7eafeb7d4ddaca4e.zip?dl=chonkyvessels_1.5.9.zip"
+        },
+        {
+            "Name": "Config lib",
+            "Version": "1.13.2",
+            "ModId": "configlib",
+            "Side": "both",
+            "Description": "A universal place to configure your mods. Makes it possible for content mods to have configs too.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/9551",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/configlib_1.13.2_1d861bb65fb150eb6f0f3890ee09ae53.zip?dl=configlib_1.13.2.zip"
+        },
+        {
+            "Name": "Continental World",
+            "Version": "1.1.2",
+            "ModId": "continentalworld",
+            "Side": "server",
+            "Description": "Alters the way oceans and landmasses are generated.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/21831",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/continentalworld_1.1_7337db27d895424feac32b87153f3beb.zip?dl=continentalworld_1.1.2.zip"
+        },
+        {
+            "Name": "Crucibles Stay Hot",
+            "Version": "1.0.2",
+            "ModId": "cruciblesstayhot",
+            "Side": "both",
+            "Description": "Crucibles now stay hot in the output slot of a firepit.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/66349",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/cruciblesstayhot_1.0_958188a94d044dcc409c94cd90c2c6a9.zip?dl=cruciblesstayhot_1.0.2.zip"
+        },
+        {
+            "Name": "Crucibulum",
+            "Version": "1.4.1",
+            "ModId": "crucibulum",
+            "Side": "both",
+            "Description": "Set a crucible in the forge and melt metal where you smith it. The crucible glows through the incandescence range as it heats and turns molten when the charge is ready to pour.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/66201",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/crucibulum_1.4.0_a5a7e12605361fa3622872e250dfc68b.zip?dl=crucibulum_1.4.0.zip"
+        },
+        {
+            "Name": "DairyPlus",
+            "Version": "2.0.0-pre.2",
+            "ModId": "dairyplus",
+            "Side": "both",
+            "Description": "Adds butter, cream, and a number of other dairy based additions to the game.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/42970",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/DairyPlus_2.0.0-pre._f2fe869eda6d5b700b809fb46212d476.zip?dl=DairyPlus_2.0.0-pre.2.zip"
+        },
+        {
+            "Name": "Dana Can Cook",
+            "Version": "2.0.0",
+            "ModId": "danacancook",
+            "Side": "both",
+            "Description": "Make sandwiches and many other things",
+            "url_mod": "https://mods.vintagestory.at/show/mod/14459",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/DanaCanCook-v2.0.0_1717f75f81c9d4ddf87339817198fed9.zip?dl=DanaCanCook-v2.0.0.zip"
+        },
+        {
+            "Name": "Darce's Drifters Redone",
+            "Version": "1.3.0",
+            "ModId": "darcesdriftersredone",
+            "Side": "both",
+            "Description": "Visual drifter rework, with models redone from Darce's Rust & Rot. Includes compability for G3rste's Cats and Combat Overhaul.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/25180",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/DarcesDriftersRedone_8446e91a29f4dffce02a0775aeae55dc.zip?dl=DarcesDriftersRedone-1.3.0.zip"
+        },
+        {
+            "Name": "Dead",
+            "Version": "2.7.4",
+            "ModId": "dead",
+            "Side": "both",
+            "Description": "Leaves a lootable corpse of the player (with their exact skin and worn gear) at the death spot on respawn.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/58055",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/dead_2.7.4_e2ece8fa129ca311b90a77a0c7b669e4.zip?dl=dead_2.7.4.zip"
+        },
+        {
+            "Name": "De Artibus Rusticis",
+            "Version": "0.9.3",
+            "ModId": "deartibusrusticis",
+            "Side": "both",
+            "Description": "Adds 19 new crops and 5 meals inspired by medieval European agriculture.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/64941",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/deartibusrusticis_0._82423c4510bf768726a53e027dcbb2e7.zip?dl=deartibusrusticis_0.9.3.zip"
+        },
+        {
+            "Name": "Dense Ground Storage",
+            "Version": "0.3.3",
+            "ModId": "densegroundstorage",
+            "Side": "both",
+            "Description": "Dense, size-aware item placement on block surfaces using a 16 by 16 footprint grid.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/59222",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/densegroundstorage_0_46cc656c5ab20d23f1a9054f29767410.zip?dl=densegroundstorage_0.3.3.zip"
+        },
+        {
+            "Name": "Diverse Diets",
+            "Version": "1.0.4",
+            "ModId": "diversediets",
+            "Side": "both",
+            "Description": "Allows certain foods to be used for feeding animals and placed in troughs",
+            "url_mod": "https://mods.vintagestory.at/show/mod/23720",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/DiverseDiets-v1.0.4_3dbe546b07e799c67a497591de8d3861.zip?dl=DiverseDiets-v1.0.4.zip"
+        },
+        {
+            "Name": "Downed",
+            "Version": "2.7.4",
+            "ModId": "downed",
+            "Side": "both",
+            "Description": "Replaces the vanilla player downed state with a survivable, invulnerable downed state",
+            "url_mod": "https://mods.vintagestory.at/show/mod/57684",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/downed_2.7.4_5eda0b1de031039e1a56aa4d6400d0c0.zip?dl=downed_2.7.4.zip"
+        },
+        {
+            "Name": "Dressmakers",
+            "Version": "1.8.0",
+            "ModId": "dressmakers",
+            "Side": "both",
+            "Description": "Craft and trade beautiful clothing items.\nRequires Tailor's Delight 2.0.0 or better, and Expanded Matter 3.3.0 or better.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/12621",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/dressmakers-1.8.0_61f00bed6bf5353979dbef0cce35d406.zip?dl=dressmakers-1.8.0.zip"
+        },
+        {
+            "Name": "Earthfed",
+            "Version": "1.2.0",
+            "ModId": "earthfed",
+            "Side": "both",
+            "Description": "More fertilizers made from feathers, seaweed, fish, and blood",
+            "url_mod": "https://mods.vintagestory.at/show/mod/53511",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/earthfed-1.2.0_6fc05e638dd39468c8496dc6cbdaad0d.zip?dl=earthfed-1.2.0.zip"
+        },
+        {
+            "Name": "EarthLiving Mine Transport",
+            "Version": "0.12.9",
+            "ModId": "earthlivingminetransport",
+            "Side": "both",
+            "Description": "Craftable narrow-gauge rails, coupled cargo trains, automatic stations, chain haul, detector sections, animated semaphore signals and single- or double-track switches.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65965",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/earthlivingminetrans_daaba892ca005e7efb769df46dd333cc.zip?dl=earthlivingminetransport_0.12.9_vs1.22.7.zip"
+        },
+        {
+            "Name": "Expanded Foods: Chef's Tricks",
+            "Version": "1.0.0-dev.4",
+            "ModId": "efchefstricks",
+            "Side": "both",
+            "Description": "Non-cooking things you can do with chef's tools that you may not expect.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/55414",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ExpandedFoods_ChefsT_0dead4beb65e4a7c0b738c70ce8c04f3.zip?dl=ExpandedFoods_ChefsTricks 1.0.0-dev.4.zip"
+        },
+        {
+            "Name": "EffectLib",
+            "Version": "1.0.1",
+            "ModId": "effectlib",
+            "Side": "both",
+            "Description": "A library for applying, tracking and persisting timed entity effects. Provides a registry for code-defined effects, a JSON attribute format for content-only effects, and a shared active-effect HUD.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/68610",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/effectlib_1.0.1_17b2ae0b0ebfd5ffb35e42660da9704a.zip?dl=effectlib_1.0.1.zip"
+        },
+        {
+            "Name": "Expanded Foods: Meals",
+            "Version": "1.0.0-dev.8",
+            "ModId": "efmealsmodule",
+            "Side": "both",
+            "Description": "BIG MEALS FOR BIG EATERS!!!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/53694",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ExpandedFoods_MealsM_3b86a2f8a2686e2a60a18635784e5ca8.zip?dl=ExpandedFoods_MealsModule 1.0.0-dev.8.zip"
+        },
+        {
+            "Name": "Elk Physics",
+            "Version": "3.0.3",
+            "ModId": "elkphysics",
+            "Side": "both",
+            "Description": "Elk physics rewrite for better riding",
+            "url_mod": "https://mods.vintagestory.at/show/mod/38774",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ElkPhysics+V3.0.3_0ef4dcb208101be5685d15c1964edca2.zip?dl=ElkPhysics V3.0.3.zip"
+        },
+        {
+            "Name": "Expanded Matter",
+            "Version": "3.8.1",
+            "ModId": "em",
+            "Side": "both",
+            "Description": "A library that extends the base game with new materials and variants.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/2086",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/expanded_matter-3.8._34aaef4444f295dbd79ca29a1a22f6d4.zip?dl=expanded_matter-3.8.1.zip"
+        },
+        {
+            "Name": "Eternal Stew",
+            "Version": "2.1.0",
+            "ModId": "eternalstew",
+            "Side": "both",
+            "Description": "Eternal Stew is built around a simple idea: throw anything in a pot, walk away, and come back to hot food.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/36630",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/EternalStew_v2.1.0_6f5e48dda4a8504c529f8217da3aed43.zip?dl=EternalStew_v2.1.0.zip"
+        },
+        {
+            "Name": "Eternal x xSkills Compat",
+            "Version": "1.0.3",
+            "ModId": "eternalstewxskillscompat",
+            "Side": "server",
+            "Description": "Adds xSkills cooking experience and compatible cooking perks to Eternal Stew.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65011",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/Eternal-x-xSkills-Co_f1d237d3a9081fe73791a75c080affe3.zip?dl=Eternal-x-xSkills-Compat-1.0.3.zip"
+        },
+        {
+            "Name": "Expanded Library",
+            "Version": "0.7.2",
+            "ModId": "exlib",
+            "Side": "both",
+            "Description": "Shared framework library for the Fallenstar's Expanded mods.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/55292",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/exlib_0.7.2_883614bf0c5bdd6a2658d2d775e6c23e.zip?dl=exlib_0.7.2.zip"
+        },
+        {
+            "Name": "Expanded Foods: Core",
+            "Version": "2.0.0-dev.14",
+            "ModId": "expandedfoods",
+            "Side": "both",
+            "Description": "New recipes for existing food types.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/28",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ExpandedFoods+2.0.0-_aececcddd22af0a8fcd95d7594279ffc.zip?dl=ExpandedFoods 2.0.0-dev.14.zip"
+        },
+        {
+            "Name": "Fast Map",
+            "Version": "122.6.0-dev.2",
+            "ModId": "fastmap",
+            "Side": "client",
+            "Description": "Map, but Fast",
+            "url_mod": "https://mods.vintagestory.at/show/mod/48907",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/fastmap_122.6.0-dev._ff6f6c74d7410bc9226501f47772f22c.zip?dl=fastmap_122.6.0-dev.2.zip"
+        },
+        {
+            "Name": "Fast Mushroom Harvesting",
+            "Version": "0.2.1",
+            "ModId": "fastmushroomharvesting",
+            "Side": "both",
+            "Description": "It should be easy and fast to pick mushrooms by hand, without tools.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/57860",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/fastMushroomHarvesti_f8955954b8d6d2212ce8f9fc2b85ec01.zip?dl=fastMushroomHarvesting-0.2.1.zip"
+        },
+        {
+            "Name": "Fennel Blooddough",
+            "Version": "1.2.6",
+            "ModId": "fennelblooddough",
+            "Side": "both",
+            "Description": "Optional patch for Fennel Swag and More Blood together: fennel-and-blood dough, bread, muffins, dumplings, pasta, and sausages. Not required if you only use one of those mods.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65746",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/FennelBlooddough_1.2_4bcf006a92c3edb3ff4ab7755d0ae3c8.zip?dl=FennelBlooddough_1.2.6.zip"
+        },
+        {
+            "Name": "Fennel Swag",
+            "Version": "1.5.2",
+            "ModId": "fennelswag",
+            "Side": "both",
+            "Description": "Ripe fennel crops drop fennel grain. Grind, blend into dough and bread, cook in meals, infuse brandy into absinthe, or simmer into fennel gelatin for Expanded Foods.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65741",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/FennelSwag_1.5.2_9c708ad17a04a47360728ed8a86a66b9.zip?dl=FennelSwag_1.5.2.zip"
+        },
+        {
+            "Name": "FoodShelves",
+            "Version": "3.0.5",
+            "ModId": "foodshelves",
+            "Side": "both",
+            "Description": "Contains various food shelves and food storage, mainly made to be used alongside Expanded Foods.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/13865",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/foodshelves_3.0.5_25859c6b4f4a1b45448100b28518c655.zip?dl=foodshelves_3.0.5.zip"
+        },
+        {
+            "Name": "Gearlock Firearms",
+            "Version": "1.0.8",
+            "ModId": "forgottenfirearms",
+            "Side": "both",
+            "Description": "Adds firearms powered by the gearlock mechanism",
+            "url_mod": "https://mods.vintagestory.at/show/mod/60282",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/gearlock-firearms-ne_b6634b4e9c38362efdec01439fca1b57.zip?dl=gearlock-firearms-net10_1.0.8.zip"
+        },
+        {
+            "Name": "Fornax",
+            "Version": "1.8.0",
+            "ModId": "fornax",
+            "Side": "both",
+            "Description": "A mid-game, multi-block updraft kiln that bridges the gap between the pit kiln and the beehive kiln. Built from raw mud brick with a pit-fired clay grate floor, or in fired brick with a copper-strapped wicket, fuelled with firewood or peat, and requiring no iron at all.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65369",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/fornax_1.8.0_5d73f099103caad4ab55180a966962b2.zip?dl=fornax_1.8.0.zip"
+        },
+        {
+            "Name": "From Golden Combs",
+            "Version": "2.1.0",
+            "ModId": "fromgoldencombs",
+            "Side": "both",
+            "Description": "Adding depth, variety, and complexity to Vintage Apiculture",
+            "url_mod": "https://mods.vintagestory.at/show/mod/1373",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/FromGoldenCombs-1.22_c354c354291c59cabd3d5052c5270d46.zip?dl=FromGoldenCombs-1.22-v2.1.0.zip"
+        },
+        {
+            "Name": "Fuel Briquettes",
+            "Version": "1.0.2",
+            "ModId": "fuelbriquettes",
+            "Side": "both",
+            "Description": "Adds long-burning, low-temperature fuels.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/39396",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/FuelBriquettes-1.0.2_b7a3933a3f86f1c51efa3a9250d11935.zip?dl=FuelBriquettes-1.0.2.zip"
+        },
+        {
+            "Name": "Geology Map",
+            "Version": "1.1.0",
+            "ModId": "geologymap",
+            "Side": "client",
+            "Description": "Adds a new map layer that shows the first rock layer beneath the soil",
+            "url_mod": "https://mods.vintagestory.at/show/mod/35336",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/geologymap_1.1.0_101a70c2addcc9f227b3946a71c93fe5.zip?dl=geologymap_1.1.0.zip"
+        },
+        {
+            "Name": "Glassmaking",
+            "Version": "2.2.0",
+            "ModId": "glassmaking",
+            "Side": "both",
+            "Description": "Core system for melting and processing glass",
+            "url_mod": "https://mods.vintagestory.at/show/mod/2380",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/glassmaking_v2.2.0_6150d1471e70ae347906fa9de6dc70bd.zip?dl=glassmaking_v2.2.0.zip"
+        },
+        {
+            "Name": "Grid for Beams",
+            "Version": "2.2.196",
+            "ModId": "gridforbeams",
+            "Side": "client",
+            "Description": "Adds a grid and additional helper elements when you're holding a beam. Highly customizable.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65201",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/gridforbeams-2.2.196_b263e8ae605d88baf9fa4383a9f44f28.zip?dl=gridforbeams-2.2.196.zip"
+        },
+        {
+            "Name": "Grindable Arrows",
+            "Version": "1.0.4",
+            "ModId": "grindablearrows",
+            "Side": "both",
+            "Description": "Sharpen your arrows on a grinding wheel to shoot your enemies with more powerful arrows.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/48402",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/grindablearrows_1.0._d3aa0612fb21ec090776c1978b2aa62d.zip?dl=grindablearrows_1.0.4.zip"
+        },
+        {
+            "Name": "Grinding Wheel Rework",
+            "Version": "1.1.11",
+            "ModId": "grindingwheelrework",
+            "Side": "both",
+            "Description": "Grinding Wheel Rework expands the vanilla grinding wheel to support more tools and turns sharpening into a lightweight repair system.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/47320",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/grindingwheelrework__8311b1fe290c9f058cb84c115c2d8fff.zip?dl=grindingwheelrework_1.1.11.zip"
+        },
+        {
+            "Name": "Gui",
+            "Version": "3.1.0",
+            "ModId": "gui",
+            "Side": "both",
+            "Description": "Client-side GUI library",
+            "url_mod": "https://mods.vintagestory.at/show/mod/49362",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/gui_3.1.0_81ac3740016668bb5431031f639981a1.zip?dl=gui_3.1.0.zip"
+        },
+        {
+            "Name": "Handbook Declutterer",
+            "Version": "2.0.1",
+            "ModId": "handbookdeclutterer",
+            "Side": "server",
+            "Description": "Massive set of fixes and patches to better group items in the handbook",
+            "url_mod": "https://mods.vintagestory.at/show/mod/35195",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/handbookdeclutterer-_acabacfc60b79bbf0fc0d22e5adf04fc.zip?dl=handbookdeclutterer-2.0.1.zip"
+        },
+        {
+            "Name": "Hideaway of Harmony",
+            "Version": "1.0.0",
+            "ModId": "hohfs",
+            "Side": "both",
+            "Description": "♫ ...A land of harmony... ♫",
+            "url_mod": "https://mods.vintagestory.at/show/mod/64992",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/hideawayofharmonyFS-_70df8de2abb529d7533ba93deee4aca5.zip?dl=hideawayofharmonyFS-1_0_0.zip"
+        },
+        {
+            "Name": "Hydrate Or Diedrate",
+            "Version": "2.5.6",
+            "ModId": "hydrateordiedrate",
+            "Side": "both",
+            "Description": "Adds a thirst and hot weather mechanic to the game.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/13245",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/hydrateordiedrate_2._483d6f87671550febed4803e44a493e4.zip?dl=hydrateordiedrate_2.5.6.zip"
+        },
+        {
+            "Name": "Modular Backpacks",
+            "Version": "1.7.10",
+            "ModId": "immersivemodularbackpacks",
+            "Side": "both",
+            "Description": "Makes vanilla backpacks more modular and immersive",
+            "url_mod": "https://mods.vintagestory.at/show/mod/58660",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/immersivemodularback_c865a4fc0ba9d55fbd21b755cd60e75a.zip?dl=immersivemodularbackpacks_1.7.10.zip"
+        },
+        {
+            "Name": "Immersive Rope Crafting",
+            "Version": "1.1.5",
+            "ModId": "immersiverope122",
+            "Side": "both",
+            "Description": "Allows more immersive, in-world rope crafting",
+            "url_mod": "https://mods.vintagestory.at/show/mod/54152",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/immersiverope122_1.1_5235cf635a0814f8e6e81be6a27b8d37.zip?dl=immersiverope122_1.1.5.zip"
+        },
+        {
+            "Name": "ImmersiveWoodworking",
+            "Version": "1.3.4",
+            "ModId": "immersivewoodworking",
+            "Side": "both",
+            "Description": "Woodworking expansion",
+            "url_mod": "https://mods.vintagestory.at/show/mod/55537",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/immersivewoodworking_b312a6f2c046cbca2930c57b215f0495.zip?dl=immersivewoodworking_1.3.4.zip"
+        },
+        {
+            "Name": "IndustrialStory",
+            "Version": "0.8.0-dev.11",
+            "ModId": "industrialstory",
+            "Side": "both",
+            "Description": "",
+            "url_mod": "https://mods.vintagestory.at/show/mod/53329",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/industrialstory_0.8._4786ed126863176937cec3db03a3e865.zip?dl=industrialstory_0.8.0-dev.11.zip"
+        },
+        {
+            "Name": "Interesting Ore Gen",
+            "Version": "2.3.8",
+            "ModId": "interestingoregen",
+            "Side": "both",
+            "Description": "Makes Ore generation more Interesting and semi-realistic!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/23261",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/InterestingOreGen-v2_c327592858a0d35756057d40b0e93e47.zip?dl=InterestingOreGen-v2.3.8.zip"
+        },
+        {
+            "Name": "Interesting Ore Gen Balance Patch",
+            "Version": "1.1.0",
+            "ModId": "iogbalancepatch",
+            "Side": "both",
+            "Description": "A patch that tweaks ore vein spawning in IOG to be less RNG dependent, yet guarantees longer journeys.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/61337",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/iogbalancepatch_c784809770168e2d6ac777331d32c064.zip?dl=iogbalancepatch.zip"
+        },
+        {
+            "Name": "Ithania Backpacks",
+            "Version": "0.6.1",
+            "ModId": "ithaniabackpacks",
+            "Side": "both",
+            "Description": "Overhauled Backpacks Supplied by the Ithania Empire",
+            "url_mod": "https://mods.vintagestory.at/show/mod/26595",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/IthaniaBackpacks_V0._49c6d1bb51a0e4353ecb488d7116d12b.zip?dl=IthaniaBackpacks_V0.6.1.zip"
+        },
+        {
+            "Name": "Jack's Stone Chisels",
+            "Version": "1.0.3",
+            "ModId": "jackschisels",
+            "Side": "both",
+            "Description": "Adds stone-age chisels for early-game chiseling.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/31580",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/JacksStoneChisels_1._03f00f353bbb6db59f006b217571ff7f.zip?dl=JacksStoneChisels_1.0.3.zip"
+        },
+        {
+            "Name": "JSON Patches lib",
+            "Version": "1.5.9",
+            "ModId": "jsonpatcheslib",
+            "Side": "both",
+            "Description": "Implements more convenient syntax and more functionality for patching JSON assets.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/41772",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/jsonpatcheslib_1.5.9_242c72a2d6e120bf678ea8ed6228632b.zip?dl=jsonpatcheslib_1.5.9.zip"
+        },
+        {
+            "Name": "Stackable Kiln Shelves",
+            "Version": "1.1.8",
+            "ModId": "kilnshelves",
+            "Side": "both",
+            "Description": "Stack more fireable pottery in the beehive kiln",
+            "url_mod": "https://mods.vintagestory.at/show/mod/49729",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/KilnShelves_1.1.8_35e57f8f1c820ade69d0f9dba60ab141.zip?dl=KilnShelves_1.1.8.zip"
+        },
+        {
+            "Name": "KRPGEnchantment",
+            "Version": "1.5.3",
+            "ModId": "krpgenchantment",
+            "Side": "both",
+            "Description": "Adds magical enchantments to VS!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/12831",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/krpgenchantment_1.5._22aa2ac16fc0e43d6dcdfc8679876339.zip?dl=krpgenchantment_1.5.3.zip"
+        },
+        {
+            "Name": "Long-term food",
+            "Version": "0.7.3",
+            "ModId": "longtermfood",
+            "Side": "both",
+            "Description": "Adds food that does not spoil for a very long time.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/13813",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/Long-term_food_v0.7._ba92ef2613183d7a75c0324373cb4919.zip?dl=Long-term_food_v0.7.3.zip"
+        },
+        {
+            "Name": "Metal Ladders",
+            "Version": "1.0.0",
+            "ModId": "metalladders",
+            "Side": "both",
+            "Description": "Adds some metal ladders.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/59172",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/metalladders_v1.0.0_aaf5519d03ceed433d98bd3123cd3f37.zip?dl=metalladders_v1.0.0.zip"
+        },
+        {
+            "Name": "Metal Cookware",
+            "Version": "1.8.1",
+            "ModId": "metalpots",
+            "Side": "both",
+            "Description": "Adds new and bigger Pots and Crocks",
+            "url_mod": "https://mods.vintagestory.at/show/mod/23127",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/metalpots_1.8.1_13c8cb6864a5a1e38ee48ef8477e2901.zip?dl=metalpots_1.8.1.zip"
+        },
+        {
+            "Name": "Metal Pots & Chiseled Ground Placement Patch",
+            "Version": "0.0.1",
+            "ModId": "metalpotschiselpatch",
+            "Side": "both",
+            "Description": "Patch to fix visuals of Metal Pots in firepits.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/64031",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/metalpotschiselpatch_9776dac80e75eb60c02e7f2ef52fd64c.zip?dl=metalpotschiselpatch_0.0.1.zip"
+        },
+        {
+            "Name": "Millwright",
+            "Version": "1.3.5",
+            "ModId": "millwright",
+            "Side": "both",
+            "Description": "Building better windmills since 1386.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/7016",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/millwright_1.3.5_cc0882cec1095424598612b914fcf06c.zip?dl=millwright_1.3.5.zip"
+        },
+        {
+            "Name": "Modular Butchering Bag",
+            "Version": "1.0.2",
+            "ModId": "modularbutcheringbag",
+            "Side": "both",
+            "Description": "Modular Backpacks × Butchering",
+            "url_mod": "https://mods.vintagestory.at/show/mod/66418",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ModularButcheringBag_cb112779bdaca793175fa7f335c55384.zip?dl=ModularButcheringBag_1.0.2.zip"
+        },
+        {
+            "Name": "More Blood",
+            "Version": "1.4.1",
+            "ModId": "moreblood",
+            "Side": "both",
+            "Description": "Adds blood as an extra mixing-bowl ingredient for Culinary Artillery / Expanded Foods dough, fruit dough, pasta, muffins, dumplings, and sausages. Doubles Butchering blood yields and hides grid blooddough.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/63849",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/moreblood-1.4.1_d4b4869dc39d6d5d1444e50ab24f0d34.zip?dl=moreblood-1.4.1.zip"
+        },
+        {
+            "Name": "MoreBuckets",
+            "Version": "1.3.1",
+            "ModId": "morebuckets",
+            "Side": "both",
+            "Description": "A mod that adds new buckets",
+            "url_mod": "https://mods.vintagestory.at/show/mod/67309",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/morebuckets_1.3.1_5b1f94f4d141b3c5d604d8c7ee82e3dd.zip?dl=morebuckets_1.3.1.zip"
+        },
+        {
+            "Name": "Open Hand",
+            "Version": "1.1.2",
+            "ModId": "openhand",
+            "Side": "both",
+            "Description": "An always-empty hand option for the discerning adventurer.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/67395",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/openhand_1.1.2_e78760da800065bdad7f24025c237c03.zip?dl=openhand_1.1.2.zip"
+        },
+        {
+            "Name": "Oven Smoking Racks",
+            "Version": "1.0.0",
+            "ModId": "ovensmoking",
+            "Side": "both",
+            "Description": "Smoking racks smoke food when placed above a hot Stone Bake Oven heat-distribution block, exactly like being placed above a lit firepit. Harmony patch, no new blocks or assets.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/69584",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/OvenSmoking_v1.0.0_8f4e2e9bb7885c15e75734e7aa9dad92.zip?dl=OvenSmoking_v1.0.0.zip"
+        },
+        {
+            "Name": "Simple Bed Spawn",
+            "Version": "1.2.0",
+            "ModId": "palmiersamasimplebedspawn",
+            "Side": "both",
+            "Description": "A simple mod to allow the setting of spawn when sleeping in a bed.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/66611",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/SimpleBedSpawn_v1.2._41b3730329ba64dbef21cec764cda94b.zip?dl=SimpleBedSpawn_v1.2.0.zip"
+        },
+        {
+            "Name": "Portcullis",
+            "Version": "1227.0.3",
+            "ModId": "portcullis",
+            "Side": "both",
+            "Description": "Adds a portcullis, Gates and Drawbrigdes and stuff",
+            "url_mod": "https://mods.vintagestory.at/show/mod/44729",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/portcullismod-1227.0_081ce3cd6c63eb75ca4d2a0c74b443fa.zip?dl=portcullismod-1227.0.3.zip"
+        },
+        {
+            "Name": "Posts and Beams",
+            "Version": "1.5.1",
+            "ModId": "postsandbeams",
+            "Side": "both",
+            "Description": "Adds wood beams and posts, used for supporting unstable rock.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/5018",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/postsandbeams_1.5.1_287105644a59e914ae1ab6f061ec0e7c.zip?dl=postsandbeams_1.5.1.zip"
+        },
+        {
+            "Name": "Pipes and Power Expanded",
+            "Version": "0.6.8",
+            "ModId": "ppex",
+            "Side": "both",
+            "Description": "Pipe network and modular steam power machinery!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/55302",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ppex_0.6.8_befd512e3b3881e2cd55abc292a57432.zip?dl=ppex_0.6.8.zip"
+        },
+        {
+            "Name": "Primitive Survival",
+            "Version": "5.1.4",
+            "ModId": "primitivesurvival",
+            "Side": "both",
+            "Description": "Traps, fishing, and a whole lot more (ft. Siddly, BluryFace, CaptainOats, JapanHasRice, and Brady_The)",
+            "url_mod": "https://mods.vintagestory.at/show/mod/1238",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/primitivesurvival_5._a0ef978b2245e69738d3d13f55abbf68.zip?dl=primitivesurvival_5.1.4.zip"
+        },
+        {
+            "Name": "Prospector's Dispatch",
+            "Version": "1.2.1",
+            "ModId": "prospectorsdispatch",
+            "Side": "both",
+            "Description": "Buy resource-location leads from traders, recorded in your journal.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/57591",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/prospectorsdispatch__1110bc41f198ca634115e996ca765c01.zip?dl=prospectorsdispatch_1.2.1.zip"
+        },
+        {
+            "Name": "ProspectTogether",
+            "Version": "2.2.1",
+            "ModId": "prospecttogether",
+            "Side": "both",
+            "Description": "Stores and displays prospecting data on the map and allows sharing data between players. Based on ProspectoInfo by P3t3rix.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/6932",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ProspectTogether-2.2_5e358e85f88e3619dd06574cef2b3d9b.zip?dl=ProspectTogether-2.2.1.zip"
+        },
+        {
+            "Name": "PurposefulStorage",
+            "Version": "2.1.1",
+            "ModId": "purposefulstorage",
+            "Side": "both",
+            "Description": "Adds a variety of storage blocks designed for both aesthetic appeal and functional item organization.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/25347",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/purposefulstorage_2._4909ae14498e1b41b0d4348a52efaae2.zip?dl=purposefulstorage_2.1.1.zip"
+        },
+        {
+            "Name": "Purposeful Storage Metalbits Patch",
+            "Version": "1.0.0",
+            "ModId": "purposefulstoragebits",
+            "Side": "both",
+            "Description": null,
+            "url_mod": "https://mods.vintagestory.at/show/mod/59001",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/purposefulstoragebit_d21e2f77db28816b0c5125f9c042fb2b.zip?dl=purposefulstoragebits_1.0.0.zip"
+        },
+        {
+            "Name": "Realistic Biome Generation",
+            "Version": "1.0.23",
+            "ModId": "realisticbiomegeneration",
+            "Side": "both",
+            "Description": "Single-cycle pole-to-equator climate map with fixed symmetric biome bands and selectable spawn latitude.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/47815",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/RealisticBiomeGenera_c66c09e8711487986ec7318b4bf0bed0.zip?dl=RealisticBiomeGeneration.zip"
+        },
+        {
+            "Name": "Real Smoke",
+            "Version": "1.3.1",
+            "ModId": "realsmoke",
+            "Side": "both",
+            "Description": "Physics-based smoke",
+            "url_mod": "https://mods.vintagestory.at/show/mod/27288",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/realsmoke_1.3.1_f1f6ad0a983a16ae634fb4a45efa0a96.zip?dl=realsmoke_1.3.1.zip"
+        },
+        {
+            "Name": "Real Smoke QP's Chisel Tools Patch",
+            "Version": "1.0.1",
+            "ModId": "realsmokeqppatch",
+            "Side": "both",
+            "Description": "Adds Realsmoke compatability to QP's Chisel Tools decorative blocks",
+            "url_mod": "https://mods.vintagestory.at/show/mod/47779",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/RealSmokeQPPatch1.0._fa8fa3aeaf7e65d5b66d01bf985363c4.zip?dl=RealSmokeQPPatch1.0.1.zip"
+        },
+        {
+            "Name": "Rift Weapons",
+            "Version": "1.3.3",
+            "ModId": "riftweapons",
+            "Side": "both",
+            "Description": "Adds weapons with different visuals depending on metal, wood and leather used",
+            "url_mod": "https://mods.vintagestory.at/show/mod/26096",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/riftweapons_1.3.3_66cc21bd586d003cf97683ac4105ddc7.zip?dl=riftweapons_1.3.3.zip"
+        },
+        {
+            "Name": "Rivers",
+            "Version": "5.0.3",
+            "ModId": "rivers",
+            "Side": "both",
+            "Description": "Standalone version of rivers.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/9360",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/rivers_5.0.3_44efe199ddabe726b47a9fddde48c278.zip?dl=rivers_5.0.3.zip"
+        },
+        {
+            "Name": "RiverWheel",
+            "Version": "1.0.1",
+            "ModId": "riverwheel",
+            "Side": "both",
+            "Description": "Stable, configurable mechanical power for waterwheels driven by the Rivers mod.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/67224",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/RiverWheel_1.0.1_9a44c23e1dea219cd0a193f587816717.zip?dl=RiverWheel_1.0.1.zip"
+        },
+        {
+            "Name": "Rock Strata Variety",
+            "Version": "0.0.4",
+            "ModId": "rockstratavariety",
+            "Side": "server",
+            "Description": "Patches rock strata generation to allow more varied rock type distribution.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/11830",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/rockstratavariety_0._1b4de983682f2c3eec000c044acfd20a.zip?dl=rockstratavariety_0.0.4.zip"
+        },
+        {
+            "Name": "Rot-bin",
+            "Version": "1.1.11",
+            "ModId": "rotbin",
+            "Side": "both",
+            "Description": "Adds a Rot-bin barrel that spoils perishables into rot on a fixed calendar timer (ignoring foodSpoilSpeed), and ages Expanded Foods alcohol.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/62724",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/RotBin_1.1.11_7b56752d26caeb060a79773c6220e484.zip?dl=RotBin_1.1.11.zip"
+        },
+        {
+            "Name": "Rustbound Magic",
+            "Version": "4.0.7",
+            "ModId": "rustboundmagic",
+            "Side": "both",
+            "Description": "Adds magic to Vintage Story.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/6716",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/rustboundmagic_4.0.7_415425c3785ebf110bb410f729d46bf4.zip?dl=rustboundmagic_4.0.7.zip"
+        },
+        {
+            "Name": "Rustbound Magic XSkills Compatibility",
+            "Version": "0.2.2",
+            "ModId": "rustboundmagicxskills",
+            "Side": "both",
+            "Description": "Adds XSkills XP when killing mobs from the Rustbound Magic mod.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/21328",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/rustboundmagic_xskil_2264a1c09dc57a911f4207b4b67bfc50.zip?dl=rustboundmagic_xskills_0.2.2.zip"
+        },
+        {
+            "Name": "Scribe",
+            "Version": "1.4.2",
+            "ModId": "scribe",
+            "Side": "both",
+            "Description": "Items & stations to keep notes and manage tasks.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/61745",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/scribe_1.4.2_1bed1f5137ad4855972d84e9a53ac688.zip?dl=scribe_1.4.2.zip"
+        },
+        {
+            "Name": "Scrolled",
+            "Version": "1.2.1",
+            "ModId": "scrolled",
+            "Side": "both",
+            "Description": "A companion mod to allow the rolling up of scroll items in mods like Better Ruins so they can be stored on racks.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/40271",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/scrolled+1.2.1_edb04a9881ed87e0b4365edb4874c083.zip?dl=scrolled 1.2.1.zip"
+        },
+        {
+            "Name": "Display Container Versatility",
+            "Version": "1.5.3",
+            "ModId": "scrollrackable",
+            "Side": "server",
+            "Description": "Allows more items to be displayed in storage, such as in scroll racks, open crates, or mounted to the wall.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/23682",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/scrollrackable.1.5.3_f152bd9010e38f631b6d98e93ba618d6.zip?dl=scrollrackable.1.5.3.zip"
+        },
+        {
+            "Name": "Seamless Rapids",
+            "Version": "1.0.1",
+            "ModId": "seamlessrapids",
+            "Side": "both",
+            "Description": "More seamless textures and a slowed flow. Only affects visuals",
+            "url_mod": "https://mods.vintagestory.at/show/mod/45756",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/seamlessrapids_bcd613b522fd8ff67f994f1f81cd5764.zip?dl=seamlessrapids.zip"
+        },
+        {
+            "Name": "Simple Forge Arrows",
+            "Version": "1.0.1",
+            "ModId": "sfaws",
+            "Side": "both",
+            "Description": "Changes the forge values for arrows from 6 to 9 and 9 to 18",
+            "url_mod": "https://mods.vintagestory.at/show/mod/6651",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/SimpleForgeArrows-1._144ceedfc5600a3294caba01163f6da5.zip?dl=SimpleForgeArrows-1.0.1.zip"
+        },
+        {
+            "Name": "Shadehouse",
+            "Version": "1.7.0",
+            "ModId": "shadehouse",
+            "Side": "both",
+            "Description": "Adds a way to build a 'shadehouse'; to grow crops and bees in hot temperatures.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/50317",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/shadehouse_1.7.0_93709850acde099ee12d17cb5de03b9f.zip?dl=shadehouse_1.7.0.zip"
+        },
+        {
+            "Name": "ShearLib",
+            "Version": "1.3.0",
+            "ModId": "shearlib",
+            "Side": "both",
+            "Description": "Harvest items from living animals",
+            "url_mod": "https://mods.vintagestory.at/show/mod/14656",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/shearlib-1.3.0_ffb157cea927d55895743420c3d24960.zip?dl=shearlib-1.3.0.zip"
+        },
+        {
+            "Name": "Shelf Obsessed",
+            "Version": "2.2.1",
+            "ModId": "shelfobsessed",
+            "Side": "both",
+            "Description": "When in doubt, put it on the shelf!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/25512",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/shelfobsessed_v2.2.1_2cce831e4ea86832e1b1489648046522.zip?dl=shelfobsessed_v2.2.1.zip"
+        },
+        {
+            "Name": "Shepherd's Herding",
+            "Version": "1.3.1",
+            "ModId": "shepherdsherding",
+            "Side": "both",
+            "Description": "An addon for Adventurer's Walking stick that allows the player to dynamically herd their livestock",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65912",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/ShepherdsHerding_1.3_982064b53c575f7d7990a2e2c5f85938.zip?dl=ShepherdsHerding_1.3.1.zip"
+        },
+        {
+            "Name": "Simple Entity Healthbar",
+            "Version": "0.1.0",
+            "ModId": "simpleentityhealthbar",
+            "Side": "client",
+            "Description": "Client Side mod displays a healthbar for targeted entities on top of the screen",
+            "url_mod": "https://mods.vintagestory.at/show/mod/29547",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/simpleentityhealthba_04ff5b51af8db92ae097b9fd42219f35.zip?dl=simpleentityhealthbar_0.1.0.zip"
+        },
+        {
+            "Name": "Skillbooks",
+            "Version": "0.7.1",
+            "ModId": "skillbooks",
+            "Side": "both",
+            "Description": "Lore-styled, single-use books that permanently grant a crafting trait when read. Discovers crafting traits dynamically at server start by scanning loaded recipes, generating a book for each one automatically -- including traits added by other mods.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/64127",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/skillbooks_0.7.1_f3a690b1dfcb5086c3f08ea2cfdd6cd2.zip?dl=skillbooks_0.7.1.zip"
+        },
+        {
+            "Name": "Skillbooks: Stats",
+            "Version": "0.7.2",
+            "ModId": "skillbooksstats",
+            "Side": "both",
+            "Description": "Lore-styled, single-use books that permanently grant a stat-modifying trait when read. Discovers traits with non-empty attributes dynamically at server start, generating a book for each one automatically -- including traits added by other mods. Works standalone; shares trait registry, flavour resolution, and the book item itself with Skillbooks core when it's also installed, without requiring it.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/64135",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/skillbooksstats_0.7._73f0fd03b02a86017546bcf46d845ea1.zip?dl=skillbooksstats_0.7.2.zip"
+        },
+        {
+            "Name": "SlowTox",
+            "Version": "5.0.0",
+            "ModId": "slowtox",
+            "Side": "both",
+            "Description": "Realistic intoxication, with benefits!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/26245",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/slowtox_5.0.0_aad606a1a888ee7bad5a7d05ebf65423.zip?dl=slowtox_5.0.0.zip"
+        },
+        {
+            "Name": "Steelmaking Expanded",
+            "Version": "0.9.8",
+            "ModId": "smex",
+            "Side": "both",
+            "Description": "Industrial iron and steel production using blast furnace and Bessemer process!",
+            "url_mod": "https://mods.vintagestory.at/show/mod/53606",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/smex_0.9.8_d49ab50ac95ba14e9d35d0a7f31b59d4.zip?dl=smex_0.9.8.zip"
+        },
+        {
+            "Name": "SMEX / Industrial Story Mold Compatibility",
+            "Version": "1.0.0",
+            "ModId": "smexindustrialcompat",
+            "Side": "server",
+            "Description": "Server-only compatibility patch preserving SMEX ceramic mold clayforming recipes when Industrial Story is installed.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/69449",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/smexindustrialcompat_af32950647569bfd32ec943eeab34cf0.zip?dl=smexindustrialcompat_1.0.0.zip"
+        },
+        {
+            "Name": "SmithingPlus",
+            "Version": "1.9.0-rc.1",
+            "ModId": "smithingplus",
+            "Side": "both",
+            "Description": "Metal tool repair, smithing tweaks and quality of life improvements.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/15312",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/smithingplus_1.9.0-r_387b188934e826e4ba9cd7b3661499ed.zip?dl=smithingplus_1.9.0-rc.1.zip"
+        },
+        {
+            "Name": "SmithingPlus Bug Fix",
+            "Version": "2.0.1",
+            "ModId": "smithingplusbugfix",
+            "Side": "both",
+            "Description": "General hotfix for SmithingPlus 1.9.0-rc.1, addressing chisel delay, iron bloom stutter, and lag spikes or crashes when looking at anvils.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/55511",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/SmithingPlus_1.9.0-r_af8b15338f75c713d90b92334b48866f.zip?dl=SmithingPlus_1.9.0-rc1_PATCH_v2.0.1.zip"
+        },
+        {
+            "Name": "Immersive Fibercraft",
+            "Version": "1.2.14",
+            "ModId": "spinningwheel",
+            "Side": "both",
+            "Description": "Adds immersive crafting mechanics for spinning and weaving.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/34327",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/spinningwheel_1.2.14_8f1b84851673084a88e945e3150b4749.zip?dl=spinningwheel_1.2.14.zip"
+        },
+        {
+            "Name": "Steep and Brew",
+            "Version": "0.7.1",
+            "ModId": "steepandbrew",
+            "Side": "server",
+            "Description": "Herbal teas with two methods: a kettle on the firepit for hot brews, a steeping jar for cold infusions. 68 single-herb teas plus 20 themed compound recipes, all tunable from one JSON file.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/48529",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/steepandbrew_v0.7.1_b5b5eaef1a34aaa3301a59e7331129f0.zip?dl=steepandbrew_v0.7.1.zip"
+        },
+        {
+            "Name": "Stone Bake Oven",
+            "Version": "1.4.0",
+            "ModId": "stonebakeoven",
+            "Side": "both",
+            "Description": "Creates a usable large stone oven for baking and more.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/6038",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/stonebakeoven_1.4.0_1c82eed135e1549f06e83f5e73ecfd3b.zip?dl=stonebakeoven_1.4.0.zip"
+        },
+        {
+            "Name": "Stone Quarry",
+            "Version": "3.6.3",
+            "ModId": "stonequarryrepckfipil",
+            "Side": "both",
+            "Description": "Adds stone quarrying mechanics with plug and feather, stone slabs, and rubble storage",
+            "url_mod": "https://mods.vintagestory.at/show/mod/47526",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/StoneQuarryRepacked._c89a720003f207eb6dbaf754eed0a6b4.zip?dl=StoneQuarryRepacked.3.6.3.zip"
+        },
+        {
+            "Name": "Substrate",
+            "Version": "2.0.0",
+            "ModId": "substrate",
+            "Side": "both",
+            "Description": "Adds a realistic way to grow mushrooms.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/21814",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/substrate_2.0.0_2c0c69baddb237c8aa1cb7d39768f504.zip?dl=substrate_2.0.0.zip"
+        },
+        {
+            "Name": "Tailor's Delight",
+            "Version": "2.2.2",
+            "ModId": "tailorsdelight",
+            "Side": "both",
+            "Description": "New tools for tailors: awls, needles, spindles & rulers. Craft and decorate with cloth, thread, leather and hide.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/8600",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/tailors_delight-2.2._3c909ca2ee8b4c0e9025516bbe066b25.zip?dl=tailors_delight-2.2.2.zip"
+        },
+        {
+            "Name": "Tankards, Goblets and More!",
+            "Version": "1.4.4",
+            "ModId": "tankardsandgoblets",
+            "Side": "both",
+            "Description": "Drink in style! Adds a variety of tankards, goblets and bottles into Vintage Story.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/23091",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/TankardsandGoblets_v_2d84bb54f2177e59c5429f0c992a1f65.zip?dl=TankardsandGoblets_v1.4.4.zip"
+        },
+        {
+            "Name": "TassHunting",
+            "Version": "0.14.41",
+            "ModId": "tasshunting",
+            "Side": "both",
+            "Description": "Hunting overhaul and tweaks to make the game feel a bit more realistic and alive. Arrows that stick in targets; Arrow break chance modifiers and pickup arrow heads instead of them being destroyed, more aggressive predators, blood trails, bloody water, health based animal run speed, damage over time bleed effects, better close combat bow aiming and accuracy, longer audible footstep range of predators, animals flee from longer range and flee away from you more realistically, faster harvest loot and auto drop loot, and config lib ui support to tweak in-game.  ",
+            "url_mod": "https://mods.vintagestory.at/show/mod/60778",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/tasshunting_VS1.22.7_52858efebb112ef909ec8b0c3ae424b0.zip?dl=tasshunting_VS1.22.7_0.14.41.zip"
+        },
+        {
+            "Name": "Temporal Symphony",
+            "Version": "2.3.2",
+            "ModId": "temporalsymphony",
+            "Side": "both",
+            "Description": "Replaces temporal storm chat warnings with audio-visual cues. Tweaks to many things temporal and rust creature alike.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/24868",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/TemporalSymphony_2.3_97200ce8e616898b853aed5e06113caf.zip?dl=TemporalSymphony_2.3.2.zip"
+        },
+        {
+            "Name": "TentBag Reworked",
+            "Version": "3.2.7",
+            "ModId": "tentbagreworked",
+            "Side": "both",
+            "Description": "Adds a tent bag for Vintage Story with variable satiety cost",
+            "url_mod": "https://mods.vintagestory.at/show/mod/21120",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/TentBag+Reworked+v3._712f8d16c4dd367361cdb43a2e698df0.zip?dl=TentBag Reworked v3.2.7.zip"
+        },
+        {
+            "Name": "Toolsmith",
+            "Version": "1.2.19",
+            "ModId": "toolsmith",
+            "Side": "both",
+            "Description": "Upgrade your tools with proper handles and bindings for durability and other buffs! Plus, returning the tool head when it wears out since they should last much longer then they do in vanilla.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/22096",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/toolsmith_1.2.19_1de2759331b979e6dd37568bab636cc5.zip?dl=toolsmith_1.2.19.zip"
+        },
+        {
+            "Name": "Translocator Engineering Redux",
+            "Version": "1.6.7",
+            "ModId": "translocatorengineeringredux",
+            "Side": "both",
+            "Description": "Enables deconstruction, construction, and linking of Static Translocators (ft. CaptainOats, SpearAndFang, Macoto Hino, Peter Wedder, Billy Galbreath)",
+            "url_mod": "https://mods.vintagestory.at/show/mod/3246",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/translocatorengineer_26cef5c206eb14ab24b7e2d62660a0f9.zip?dl=translocatorengineeringredux_1.6.7.zip"
+        },
+        {
+            "Name": "Universal Display Lib",
+            "Version": "1.1.3",
+            "ModId": "universaldisplaylib",
+            "Side": "both",
+            "Description": "Library for blocks with free-placement display surfaces - any block, not just windows. Adds surfaces defined in the shape file, item stacking, rotation, precise placement, lighting, particles and block swapping.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/61108",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/universaldisplaylib__85e133f72c83b4747290c42575d71f92.zip?dl=universaldisplaylib_1.1.3.zip"
+        },
+        {
+            "Name": "Vermicomposting",
+            "Version": "1.1.1",
+            "ModId": "vermicomposting",
+            "Side": "both",
+            "Description": "Adds a way to increase soil tiers.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/56346",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vermicomposting_1.1._02c18ee23df8a18975487f6747511b3b.zip?dl=vermicomposting_1.1.1.zip"
+        },
+        {
+            "Name": "VintageCanvas",
+            "Version": "1.2.8",
+            "ModId": "vintagecanvas",
+            "Side": "both",
+            "Description": "In-world painting mod",
+            "url_mod": "https://mods.vintagestory.at/show/mod/54352",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vintagecanvas_1.2.8_caedaa5cfabbe183d9b2b589e484d920.zip?dl=vintagecanvas_1.2.8.zip"
+        },
+        {
+            "Name": "Immersive Firewood",
+            "Version": "0.4.2",
+            "ModId": "vsfirewood",
+            "Side": "both",
+            "Description": "Per log type firewood progression with wet-to-dry aging and species-specific charcoal yields.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/63729",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vsfirewood-0.4.2_77b56a4f36b36229470ccc53170ba4d9.zip?dl=vsfirewood-0.4.2.zip"
+        },
+        {
+            "Name": "Immersive Firewood - Real Smoke Compatibility",
+            "Version": "0.1.0",
+            "ModId": "vsfirewoodrealsmokecompat",
+            "Side": "both",
+            "Description": "Applies Immersive Firewood fuel smoke levels to Real Smoke firepit emissions.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/67344",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vsfirewoodrealsmokec_494a33616ae5c4de854546a395d54d8b.zip?dl=vsfirewoodrealsmokecompat_0.1.0.zip"
+        },
+        {
+            "Name": "Vintage Healing",
+            "Version": "1.1.0",
+            "ModId": "vsheal",
+            "Side": "both",
+            "Description": "More and better healing items.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65118",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vintage_healing-1.1._3533a9011e28edd428328c69693f4ceb.zip?dl=vintage_healing-1.1.0.zip"
+        },
+        {
+            "Name": "Dear ImGui",
+            "Version": "1.2.7",
+            "ModId": "vsimgui",
+            "Side": "both",
+            "Description": "Brings famous immediate mode GUI to Vintage Story",
+            "url_mod": "https://mods.vintagestory.at/show/mod/9329",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vsimgui_1.2.7_930a5532b150476e25ceef6f716182dd.zip?dl=vsimgui_1.2.7.zip"
+        },
+        {
+            "Name": "VS Roofing Mod",
+            "Version": "2.0.3",
+            "ModId": "vsroofing",
+            "Side": "both",
+            "Description": "Gridless roof crafting/building system with dynamic slopes and corners.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/30143",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vsroofing_2.0.3_a7c4a1c1af2379dc923c88a34779b0de.zip?dl=vsroofing_2.0.3.zip"
+        },
+        {
+            "Name": "Client MeshRef Leak Fix",
+            "Version": "1.1.4",
+            "ModId": "vsvaogc",
+            "Side": "client",
+            "Description": "Client-only. When Vintage Story garbage-collects an undisposed MeshRef, this actually frees the OpenGL VAO on the render thread instead of leaking VRAM. Stops the session-long FPS slide and hitching from MeshRef leaks (skeps, handbook, HD meshes, GUI leftovers). 1.1.4: outer try/catch on Harmony Finalize prefix and ExecuteMainThreadTasks drain postfix so a dispose failure cannot crash the client. Adaptive drain. Metrics off render thread. DLL-only zip. No GC.Collect, no key injection.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65374",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/vsvaogc_1.1.4_ea6fa038fd2fa2b92b5a5104b899a7b5.zip?dl=vsvaogc_1.1.4.zip"
+        },
+        {
+            "Name": "W4RD0's Furniture",
+            "Version": "1.2.3",
+            "ModId": "w4rd0sfurniture",
+            "Side": "both",
+            "Description": "A furniture pack for Vintage Story.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/65307",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/w4rd0sfurniture_1.2._3168d3b9bf9377ec19c371d5a301844a.zip?dl=w4rd0sfurniture_1.2.3.zip"
+        },
+        {
+            "Name": "Adventurer's Walking Stick",
+            "Version": "3.0.10",
+            "ModId": "walkingstick",
+            "Side": "both",
+            "Description": "Adds various walking sticks that provide benefits to walking speed and hunger rate.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/34545",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/adventurers-walking-_b16f56f1a035ae58cb6b416e1c0ba943.zip?dl=adventurers-walking-stick-net10_3.0.10.zip"
+        },
+        {
+            "Name": "Warm Gambeson",
+            "Version": "1.0.0",
+            "ModId": "warmgambeson",
+            "Side": "both",
+            "Description": "Gambeson provides a warmth bonus",
+            "url_mod": "https://mods.vintagestory.at/show/mod/31616",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/warmgambeson_b93951ab8f7aa6e40005f41633333302.zip?dl=warmgambeson.zip"
+        },
+        {
+            "Name": "Immersive Body Temperature",
+            "Version": "1.7.0",
+            "ModId": "warmweathereffects",
+            "Side": "both",
+            "Description": "Prepare for summer! Makes hot climates as challenging as cold ones.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/45682",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/warmweathereffects_1_d7d9245d9b238fce49641146484ec4ce.zip?dl=warmweathereffects_1.7.0.zip"
+        },
+        {
+            "Name": "Algernons Watersheds",
+            "Version": "7.0.4",
+            "ModId": "watersheds",
+            "Side": "both",
+            "Description": "Revamps the world generation with features derived from a Watershed model.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/42299",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/watersheds_7.0.4_0c2db147c6262bcf6c646e8db54e28fa.zip?dl=watersheds_7.0.4.zip"
+        },
+        {
+            "Name": "Wind Chimes",
+            "Version": "1.5.2",
+            "ModId": "windchimes",
+            "Side": "both",
+            "Description": "Add decorative whind chimes",
+            "url_mod": "https://mods.vintagestory.at/show/mod/24373",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/windchimes-1.22.0-v1_ec4d82e30b435f2704c7de371d1c46cb.zip?dl=windchimes-1.22.0-v1.5.2.zip"
+        },
+        {
+            "Name": "Window Display",
+            "Version": "1.0.4",
+            "ModId": "windowdisplay",
+            "Side": "both",
+            "Description": "Animated windows with free-placement display surfaces",
+            "url_mod": "https://mods.vintagestory.at/show/mod/61109",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/windowdisplay_1.0.4_1fe31d0799724811004c92dca204206e.zip?dl=windowdisplay_1.0.4.zip"
+        },
+        {
+            "Name": "Window Display Patches",
+            "Version": "1.0.5",
+            "ModId": "windowdisplaypatches",
+            "Side": "both",
+            "Description": "Patches that let vanilla and third-party items sit correctly on Window Display's surfaces",
+            "url_mod": "https://mods.vintagestory.at/show/mod/61299",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/windowdisplaypatches_42abce4fdba95c06ab430f54c66298c4.zip?dl=windowdisplaypatches_1.0.5.zip"
+        },
+        {
+            "Name": "Wooden Wrench",
+            "Version": "1.0.0",
+            "ModId": "woodenwrench",
+            "Side": "both",
+            "Description": "Adds a wooden wrench",
+            "url_mod": "https://mods.vintagestory.at/show/mod/59889",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/woodenwrench_1.0.0_2aaa7f4e0ad8f324d08573e6e8e3f651.zip?dl=woodenwrench_1.0.0.zip"
+        },
+        {
+            "Name": "Wool & More",
+            "Version": "1.9.6",
+            "ModId": "wool",
+            "Side": "both",
+            "Description": "Harvest, process, trade and craft animal hair, fleece and wool.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/14220",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/wool-1.9.6_a02f96a57eb8c54ef41b647c591c81e5.zip?dl=wool-1.9.6.zip"
+        },
+        {
+            "Name": "World of Fortune",
+            "Version": "1.0.1",
+            "ModId": "worldoffortune",
+            "Side": "both",
+            "Description": "World generation tweaks to provide better worlds from 150% to 300% landform scale. Custom made for Tides of Fortune. Futureproof and codeless.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/35113",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/WorldOfFortune-1.0.1_3744d3d972ab7982c3e9d2a96db2998d.zip?dl=WorldOfFortune-1.0.1.zip"
+        },
+        {
+            "Name": "XLib Fork",
+            "Version": "1.0.38",
+            "ModId": "xlibfork",
+            "Side": "both",
+            "Description": "Adds a leveling and an effect api to the game.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/44133",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/XLib+Fork+v1.0.38_bf56d3f4acea58f603626367595f7db7.zip?dl=XLib Fork v1.0.38.zip"
+        },
+        {
+            "Name": "xSkills Fork",
+            "Version": "1.1.5",
+            "ModId": "xskillsfork",
+            "Side": "both",
+            "Description": "Adds skills to the game.",
+            "url_mod": "https://mods.vintagestory.at/show/mod/44074",
+            "installed_download_url": "https://moddbcdn.vintagestory.at/xSkills+Fork+v1.1.5_5b1ce3045ec3ab325c954a2961b9bc27.zip?dl=xSkills Fork v1.1.5.zip"
+        }
+    ]
+}
